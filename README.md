@@ -17,7 +17,7 @@ Briss is a piece of software to help with splitting PDFs. It is really useful to
 * Developer: Gerhard Aigner
 * [Briss Homepage](http://sourceforge.net/projects/briss/)
 * License: GPLv3
-![Briss Screenshot depicting a document being split](./screenshots/briss-01.png "Screenshot of Briss splitting a spread page document" =x250)
+<img title="Briss Screenshot depicting a document being split" src="./screenshots/briss-01.png" alt="Screenshot of Briss splitting a spread page document" height="250px">
 
 ## WinDirStat
 WinDirStat is a Windows directory statistics application to show what your disk space is being used for. The distinguishing feature of WinDirStat is its ability to graphically represent storage space.
@@ -25,4 +25,4 @@ WinDirStat is a Windows executable file and can be opened via file explorer.
 * Developer: Bernhard
 * [WinDirStat Homepage](https://windirstat.net/index.html)
 * License: GPLv2
-![WinDirStat showing disk usage](./screenshots/windirstat-01.jpg "Screenshot of WinDirStat output of a disk" =x250)
+<img title="WinDirStat showing disk usage" src="./screenshots/windirstat-01.jpg" alt="Screenshot of WinDirStat output of a disk" height="250px">
