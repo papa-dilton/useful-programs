@@ -1,0 +1,8 @@
+#import <Cocoa/Cocoa.h>
+typedef void(^CDEPreferencesWindowControllerCompletionHandler)(void);
+
+@interface PreferencesWC : NSWindowController
+- (void)showWithCompletionHandler:(CDEPreferencesWindowControllerCompletionHandler)handler;
+- (void)showAutomaticProjectCreationPreferencesAndDisplayInfoSheetWithCompletionHandler:(CDEPreferencesWindowControllerCompletionHandler)handler;
+- (void)showAutomaticProjectCreationPreferencesWithCompletionHandler:(CDEPreferencesWindowControllerCompletionHandler)handler;
+@end
